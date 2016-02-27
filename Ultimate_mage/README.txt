@@ -1,0 +1,1 @@
+A game were the primary mechanic is to use magic. Make new spells, get better with existing spells. Spells will take resources (time, motion, items, reading notes), these requirements will drop with mastery.
